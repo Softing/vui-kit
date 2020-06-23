@@ -1,0 +1,28 @@
+{
+  "name": "@softing/vui-kit",
+  "version": "1.0.0",
+  "description": "VUI Kit package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Softing/vui-kit.git"
+  },
+  "author": "Softing LLC",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/Softing/vui-kit/issues"
+  },
+  "homepage": "https://github.com/Softing/vui-kit#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^8.0.2"
+  }
+}
